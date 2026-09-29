@@ -1,0 +1,6 @@
+{
+  "name": "Toko Qu - Kasir Toko Heni",
+  "description": "Aplikasi kasir ringan dan hemat RAM eksklusif untuk Toko Heni, dilengkapi cek harga barcode, transaksi kasir, cetak struk bluetooth, manajemen kasbon, dan sinkronisasi Google Spreadsheet. Developed by Hann.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
